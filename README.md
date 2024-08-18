@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nhung Sam Nguyễn
+- 👋 Hi, I’m Nhung (Sam) Nguyen
 - 👀 I’m interested in Data & AI, also Mathematics, Statistics and CS 
 - 🌱 I’m currently a full-time NLP Engineer, also learning and doing research on my interests
 - 💞️ I’m looking to collaborate on building things or open to any discussion
